@@ -1,0 +1,7 @@
+S:/OAMK/Qt-Projects/H1/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/H1.dir
+S:/OAMK/Qt-Projects/H1/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+S:/OAMK/Qt-Projects/H1/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+S:/OAMK/Qt-Projects/H1/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+S:/OAMK/Qt-Projects/H1/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+S:/OAMK/Qt-Projects/H1/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+S:/OAMK/Qt-Projects/H1/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
